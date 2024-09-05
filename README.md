@@ -15,3 +15,6 @@ This is a simple Todo application built using [Redux Toolkit](https://redux-tool
 - JavaScript (ES6+)
 - TailwindCSS
 - React-Redux
+
+
+Hosted Link : https://todoapp-w-redux.netlify.app
