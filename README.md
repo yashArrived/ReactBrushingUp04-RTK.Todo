@@ -17,4 +17,4 @@ This is a simple Todo application built using [Redux Toolkit](https://redux-tool
 - React-Redux
 
 
-Hosted Link : https://todoapp-w-redux.netlify.app
+Deployed at  : https://todoapp-w-redux.netlify.app
